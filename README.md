@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-This is a **responsive, mobile-first React single-page application (SPA)** built using the latest React JS practices and libraries. It started as a learning project and is growing into a full-featured web app with dynamic content, custom components, and modern UI/UX.
+This is a **responsive, mobile-first React single-page application (SPA)** built using the latest React JS practices and libraries. It started as a learning project and is growing into a full-featured web app with dynamic content, custom components,and modern UI/UX.
 
 ---
 
